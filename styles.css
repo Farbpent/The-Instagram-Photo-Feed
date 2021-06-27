@@ -1,0 +1,69 @@
+
+
+.cabeza{
+
+height: 6vh;
+margin: auto;
+background-color: whitesmoke;
+
+
+}
+
+.insta{
+
+position: relative;
+left: 655px;
+bottom: -10px;
+
+}
+
+
+
+body{
+
+    background-color: rgb(204, 204, 204);
+    margin:0;
+
+}
+
+
+.left {
+    
+    font-size: 1.5em;
+
+}
+.right {
+    text-align: right;
+    
+
+}
+.left, .right {
+    display: inline-block;
+    width: 45%;
+    font-family: "Sofia", sans-serif;
+    
+    
+}
+
+body p, .left{
+
+padding: 15px;
+}
+
+.cuadro {
+  background-color: white;
+  width: 600px;
+  margin: 20px auto;
+  
+}
+
+body img {
+
+    width:600px ;
+    height:400px;
+
+
+}
+
+
+
